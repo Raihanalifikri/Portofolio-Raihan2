@@ -1,0 +1,40 @@
+.title {
+    border-bottom: 2px solid black;
+}
+
+.profile{
+    box-shadow: 4px 4px black;
+}
+
+.card{
+    box-shadow: 4px 4px black;
+}
+
+.input input{
+    box-shadow: 4px 4px black;
+}
+
+.button a{
+    box-shadow: 4px 4px black;
+}   
+
+.dark .profile{
+    box-shadow: 4px 4px black;
+}
+
+.dark .card{
+    box-shadow: 4px 4px white;
+}
+
+.name {
+    font-family: Anta, 'sans-serif';
+}
+
+.dark .name{
+    text-shadow: 1px 2px 1px #F0F3FF;
+}
+
+
+.name {
+     transition: ease-in-out;
+}
